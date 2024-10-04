@@ -850,7 +850,7 @@ files = [
 
 [[package]]
 name = "impacket"
-version = "0.12.0.dev1+20240725.112949.63079001"
+version = "0.10.0"
 description = "Network protocols Constructors and Dissectors"
 optional = false
 python-versions = "*"
@@ -871,7 +871,7 @@ six = "*"
 
 [package.source]
 type = "git"
-url = "https://github.com/fortra/impacket.git"
+url = "https://github.com/jsherwood0/impacket.git"
 reference = "HEAD"
 resolved_reference = "63079001e2d7f1a5bafcfe59f5a78d42ceefd9ed"
 
