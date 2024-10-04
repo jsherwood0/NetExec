@@ -44,7 +44,7 @@ bloodhound = "^1.7.2"
 dploot = "*"
 dsinternals = "^1.2.4"
 impacket =  { git = "https://github.com/jsherwood0/impacket.git", branch = "custom-local-dependencies" }
-lsassy = ">=3.1.11"
+lsassy = { git = "https://github.com/jsherwood0/lsassy.git", branch = "custom-local-dependencies" }
 masky = "^0.2.0"
 minikerberos = "^0.4.1"
 msgpack = "^1.0.0"
