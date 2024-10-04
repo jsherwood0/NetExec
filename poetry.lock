@@ -358,7 +358,7 @@ files = [
 [package.dependencies]
 dnspython = "*"
 future = "*"
-impacket = ">=0.9.17"
+impacket = ">=0.10.0"
 ldap3 = ">2.5.0,<2.5.2 || >2.5.2,<2.6 || >2.6"
 pyasn1 = ">=0.4"
 pycryptodome = "*"
@@ -1940,7 +1940,7 @@ files = [
 
 [package.dependencies]
 bs4 = "*"
-impacket = ">=0.9.22"
+impacket = ">=0.10.0"
 lxml = "*"
 
 [[package]]
